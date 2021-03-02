@@ -1,5 +1,8 @@
 package ordenacao;
 
+//@autor: Paulo Fernando Teodoro De Souza
+//Ordenação simples de números usando vetor.
+
 import java.util.Scanner;
 
 public class Ordenacao {
